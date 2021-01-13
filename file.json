@@ -1,12 +1,12 @@
 {
-	"huawei": {
+	"MyAds": {
 
 		"AdsController": {
 			
 			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-5941406937735595/5338994960",
-			"InterstitialAdmob": "ca-app-pub-5941406937735595/7773586612",
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"BannerFacebook": "413468403382050_486882466040643",
@@ -15,7 +15,7 @@
 			
 			"AppkeyAppodeals": "eec2fc737ab8df819c6a9551453a236587aa8d3034a376f4",
 			
-			"Cpa": true,
+			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
