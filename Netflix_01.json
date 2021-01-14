@@ -19,8 +19,8 @@
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
-			"watchNow": true,
-			"Rating": true
+			"watchNow": false,
+			"Rating": false
 			
 		}
 
