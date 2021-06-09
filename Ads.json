@@ -1,5 +1,5 @@
 [{
-		"Button 1": "privacy.isHidden = true",
+		"Button 1": "privacy.isHidden = false",
 		
 	}
 ]
