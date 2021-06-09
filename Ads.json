@@ -1,5 +1,6 @@
-[{
-		"Button 1": "privacy.isHidden = false",
-		
-	}
+[
+	{
+"showButton" : true
+}
+	
 ]
